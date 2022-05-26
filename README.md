@@ -1,1 +1,1 @@
-# Data-Strructure-Questions
+# Data-Structure-Questions
